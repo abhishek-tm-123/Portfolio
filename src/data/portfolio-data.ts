@@ -47,7 +47,7 @@ export const portfolioData = {
     {
       title: "SmartExp – AI Powered Expense Tracker",
       description: "A modern expense tracking web application that helps users manage daily expenses, visualize spending patterns, and track financial activity efficiently. Includes analytics dashboards, categorized transactions, and JWT authentication.",
-      image: "/smartexp.jfif",
+      image: "/smartexp.jpeg",
       tech: ["React.js", "FastAPI", "Python", "PostgreSQL", "Chart.js"],
       github: "https://github.com/abhishek-tm-123/expense-tracker-frontend",
       live: "https://expense-tracker-frontend-nine-ruddy.vercel.app/"
