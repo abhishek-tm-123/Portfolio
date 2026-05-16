@@ -35,6 +35,10 @@ export const metadata: Metadata = {
   creator: "Abhishek TM",
   metadataBase: new URL("https://abhishektm.vercel.app/"),
 
+  verification: {
+    google: "Wc2XA2lZzY-MKvNkPnObX51i7W9XhEH3LwMLIefSHNk"
+  },
+
   openGraph: {
     title: "Abhishek TM | Portfolio",
     description:
