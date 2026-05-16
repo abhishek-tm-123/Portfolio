@@ -33,20 +33,20 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Abhishek TM" }],
   creator: "Abhishek TM",
-  metadataBase: new URL("https://yourdomain.com"),
+  metadataBase: new URL("https://abhishektm.vercel.app/"),
 
   openGraph: {
     title: "Abhishek TM | Portfolio",
     description:
       "Modern developer portfolio built with Next.js and React.",
-    url: "https://yourdomain.com",
-    siteName: "Abhishek Portfolio",
+    url: "https://abhishektm.vercel.app/",
+    siteName: "Abhishek TM Portfolio",
     images: [
       {
         url: "/banner.png",
         width: 1200,
         height: 630,
-        alt: "Abhishek Portfolio",
+        alt: "Abhishek TM Portfolio",
       },
     ],
     locale: "en_US",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     title: "Abhishek TM | Portfolio",
     description:
       "Modern developer portfolio built with Next.js and React.",
-    images: ["/og-image.png"],
+    images: ["/banner.png"],
   },
 };
 
