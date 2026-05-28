@@ -45,6 +45,24 @@ export const portfolioData = {
   ],
   projects: [
     {
+      title: "HireMind AI – Mock Interview Platform",
+      description:
+        "An AI-powered mock interview platform that simulates realistic multi-round technical interviews with adaptive questioning, role-based difficulty levels, and performance evaluation. Features authentication, dynamic interview flows, cloud database integration, and AI-generated feedback. Currently under active development.",
+      image: "/hiremind.png",
+      tech: [
+        "Next.js",
+        "TypeScript",
+        "Prisma",
+        "PostgreSQL",
+        "Neon",
+        "Tailwind CSS",
+        "Clerk",
+        "Gemini API"
+      ],
+      github: "https://github.com/abhishek-tm-123/Hiremind-Ai",
+      live: "https://hiremind-ai-og.vercel.app/"
+    },
+    {
       title: "SmartExp – AI Powered Expense Tracker",
       description: "A modern expense tracking web application that helps users manage daily expenses, visualize spending patterns, and track financial activity efficiently. Includes analytics dashboards, categorized transactions, and JWT authentication.",
       image: "/smartexp.jpeg",
