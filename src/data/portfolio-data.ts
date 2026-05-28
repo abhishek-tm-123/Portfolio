@@ -7,7 +7,7 @@ export const portfolioData = {
     email: "abhishektm444@gmail.com",
     github: "https://github.com/abhishek-tm-123",
     linkedin: "https://linkedin.com/in/abhishek-t-m",
-    resume: "/Abhishek_TM_Resume.pdf",
+    resume: "/Abhishek_TM.pdf",
   },
   skills: {
     known: [
